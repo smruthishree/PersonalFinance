@@ -1,5 +1,4 @@
 # Personal Finance
 
 ## Description
-This aims to analise and visualise the personal money tracker data to understand spending trends and beyond
-
+This is designed to analyze and visualize personal financial tracking data, providing insights into spending patterns and more.
